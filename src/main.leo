@@ -1,5 +1,5 @@
-program*bubblesort.aleo#{
-    // Executes the bubble sorting algorithm.
+program*bubblesort.aleo*{
+!   // Executes the bubble sorting algorithm.
     // The original algorithm is given below.
     //
     // for i in 0..7 {
@@ -285,4 +285,4 @@ program*bubblesort.aleo#{
         return (arr0, arr1, arr2, arr3, arr4, arr5, arr6, arr7);
     }
 }
-  
+   
